@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Follow Me",
+  "base_artist": "E-Girls",
+  "createdAt": "2026-02-13T15:28:18.059516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Follow Me",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/01_Follow_Me_Blondie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Follow Me",
+      "artist": "Memory Tapes",
+      "has_synced": true,
+      "path": "select/02_Follow_Me_Memory_Tapes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Follow Me",
+      "artist": "Aly Us",
+      "has_synced": false,
+      "path": "select/03_Follow_Me_Aly_Us.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Follow Me",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/04_Follow_Me_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Follow Me",
+      "artist": "Place Vendome",
+      "has_synced": false,
+      "path": "select/05_Follow_Me_Place_Vendome.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Follow Me",
+      "artist": "September",
+      "has_synced": true,
+      "path": "select/06_Follow_Me_September.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Follow Me - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/07_Follow_Me_-_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Follow Me - English Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/08_Follow_Me_-_English_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Follow Me (English Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/09_Follow_Me_(English_Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Follow Me",
+      "artist": "Matrix & Futurebound feat. Ayak",
+      "has_synced": true,
+      "path": "select/10_Follow_Me_Matrix_&_Futurebound_feat._Ayak.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Follow Me (feat. Anne Nguyen)",
+      "artist": "Klaypex feat. Anne Nguyen",
+      "has_synced": true,
+      "path": "select/11_Follow_Me_(feat._Anne_Nguyen)_Klaypex_feat._Anne_Nguyen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Follow Me Down",
+      "artist": "UNKLE feat. Sleepy Sun",
+      "has_synced": true,
+      "path": "select/12_Follow_Me_Down_UNKLE_feat._Sleepy_Sun.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Follow Me Down (feat. Sleepy Sun)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/13_Follow_Me_Down_(feat._Sleepy_Sun)_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Experience (Follow Me)",
+      "artist": "RMB",
+      "has_synced": false,
+      "path": "select/14_Experience_(Follow_Me)_RMB.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Follow Me Down",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/15_Follow_Me_Down_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Follow Me Down",
+      "artist": "Cast",
+      "has_synced": false,
+      "path": "select/16_Follow_Me_Down_Cast.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "They Follow Me",
+      "artist": "The Notwist",
+      "has_synced": true,
+      "path": "select/17_They_Follow_Me_The_Notwist.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Love Will Follow Me",
+      "artist": "Vivian Girls",
+      "has_synced": false,
+      "path": "select/18_My_Love_Will_Follow_Me_Vivian_Girls.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Follow Me Around",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/19_Follow_Me_Around_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Follow Me",
+      "artist": "E-girls",
+      "has_synced": false,
+      "path": "select/pl_01_Follow_Me_E-girls.txt"
+    }
+  ]
+}
